@@ -1,0 +1,17 @@
+{
+  "name": "iW99 — Online Casino Myanmar",
+  "short_name": "iW99",
+  "description": "Myanmar Online Gaming Platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07091b",
+  "theme_color": "#07091b",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "64x64", "type": "image/x-icon" },
+    { "src": "/favicon.ico", "sizes": "192x192", "type": "image/x-icon" },
+    { "src": "/favicon.ico", "sizes": "512x512", "type": "image/x-icon" }
+  ],
+  "categories": ["games", "entertainment"],
+  "lang": "my"
+}
